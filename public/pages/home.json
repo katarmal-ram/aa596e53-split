@@ -1,246 +1,220 @@
-
 {
-  "meta": {
-    "title": "Shiv Brass Industries - Precision Forged Brass Components",
-    "description": "Leading manufacturer of high-quality forged brass parts for automotive, pneumatic, aerospace, and hydraulic applications. ISO 9001:2015 certified with 35+ years of experience."
-  },
   "hero": {
-    "type": "video",
-    "enabled": true,
-    "title": "Precision Brass Engineering Excellence",
-    "subtitle": "Manufacturing superior forged brass components for critical applications",
-    "backgroundVideo": "https://dm0qx8t0i9gc9.cloudfront.net/watermarks/video/NL0L5N5Rgimkt8edi/videoblocks-authomatic-lathe-drill-the-thread-and-rounds-the-edges-of-the-part_seemoxrjtx__456bda19ebbb32c7b3b6e1208019deab__P1080.mp4?response-content-disposition=attachment%3Bfilename%3Dauthomatic-lathe-drill-the-thread-and-rounds-the-edges-of-the-part-SBV-327456926-preview.mp1",
-    "backgroundImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=2000&q=80",
     "cta": {
-      "primary": "Explore Products",
-      "primaryAction": "/products",
+      "primary": "Explore Components",
       "secondary": "Get Quote",
+      "primaryAction": "/products",
       "secondaryAction": "/contact"
-    }
+    },
+    "type": "video",
+    "title": "Precision Manufacturing for Critical Industrial Components",
+    "enabled": true,
+    "subtitle": "Delivering High-Quality Brass and Metal Parts for Global Automotive and Aerospace Industries",
+    "backgroundImage": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?auto=format&fit=crop&w=2000&q=80",
+    "backgroundVideo": "https://example.com/manufacturing-video.mp4"
+  },
+  "meta": {
+    "title": "RT Turnomatics - Precision Component Manufacturing Solutions",
+    "description": "Expert precision manufacturing of brass and metal components for automotive, pneumatic, and aerospace industries. Custom solutions with exceptional quality."
   },
   "sections": {
-    "whyChooseUs": {
-      "type": "why-choose-us",
+    "cta": {
+      "type": "cta",
+      "title": "Transform Your Manufacturing with Precision Engineering",
       "enabled": true,
-      "title": "Why Choose Shiv Brass Industries",
-      "subtitle": "Excellence in brass forging and manufacturing",
+      "subtitle": "Experience unparalleled quality and reliability in custom precision component manufacturing across multiple industrial sectors",
+      "primaryCTA": {
+        "text": "View Services",
+        "action": "/services"
+      },
+      "secondaryCTA": {
+        "text": "Contact Us",
+        "action": "/contact"
+      }
+    },
+    "faqs": {
+      "type": "faqs",
       "items": [
         {
-          "id": "quality",
-          "icon": "award",
-          "title": "Superior Quality",
-          "description": "ISO 9001:2015 certified manufacturing processes ensuring consistent quality and reliability in every component."
+          "id": "minimum-order-quantity",
+          "answer": "We accommodate orders from 50 to 10,000 units, with flexible manufacturing capabilities to meet diverse client requirements across different industries.",
+          "question": "What is your minimum order quantity?"
         },
         {
-          "id": "experience",
-          "icon": "clock",
-          "title": "35+ Years Experience",
-          "description": "Over three decades of expertise in brass forging, machining, and precision manufacturing for critical applications."
+          "id": "production-timeline",
+          "answer": "Typical project turnaround ranges from 2-6 weeks depending on complexity, with rush options available for urgent manufacturing needs.",
+          "question": "How quickly can you complete a manufacturing project?"
         },
         {
-          "id": "technology",
-          "icon": "cog",
-          "title": "Advanced Technology",
-          "description": "State-of-the-art CNC machines, forging presses, and quality testing equipment for superior component manufacturing."
+          "id": "quality-certifications",
+          "answer": "We maintain ISO 9001:2015 certification and follow strict quality control processes to ensure precision and reliability in all manufactured components.",
+          "question": "What quality certifications do you maintain?"
+        },
+        {
+          "id": "material-capabilities",
+          "answer": "We specialize in brass, stainless steel, aluminum, and other metals, providing comprehensive manufacturing solutions for diverse industrial applications.",
+          "question": "What materials can you work with?"
+        },
+        {
+          "id": "custom-design",
+          "answer": "Yes, our engineering team provides complete design support, prototype development, and custom manufacturing solutions tailored to specific client requirements.",
+          "question": "Do you offer custom component design?"
         }
-      ]
-    },
-    "aboutusintro": {
-      "type": "about-us-intro",
+      ],
+      "title": "Frequently Asked Questions",
       "enabled": true,
-      "title": "About Shiv Brass Industries",
-      "subtitle": "Leaders in precision brass component manufacturing",
-      "description": "Established with a vision to provide high-quality brass components, Shiv Brass Industries has grown to become a trusted partner for automotive, aerospace, pneumatic, and hydraulic industries. Our commitment to excellence, precision manufacturing, and customer satisfaction drives everything we do.",
-      "image": "https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?auto=format&fit=crop&w=800&q=80",
-      "highlights": [
-        "ISO 9001:2015 Certified",
-        "500+ Component Variants",
-        "50+ Countries Served",
-        "24/7 Technical Support"
-      ]
+      "subtitle": "Get answers to common questions about our precision manufacturing services"
     },
     "stats": {
       "type": "stats",
-      "enabled": true,
-      "title": "Our Manufacturing Achievements",
-      "subtitle": "Delivering excellence across industries worldwide",
       "items": [
-        { "number": "35+", "label": "Years Experience" },
-        { "number": "500+", "label": "Product Variants" },
-        { "number": "50+", "label": "Countries Served" },
-        { "number": "10000+", "label": "Satisfied Clients" }
-      ]
+        {
+          "label": "Years in Business",
+          "number": "4+"
+        },
+        {
+          "label": "Product Varieties",
+          "number": "50+"
+        },
+        {
+          "label": "Global Clients",
+          "number": "15+"
+        },
+        {
+          "label": "Customer Satisfaction",
+          "number": "98%"
+        }
+      ],
+      "title": "Our Performance and Achievements",
+      "enabled": true,
+      "subtitle": "Proven track record of delivering high-quality precision manufacturing solutions"
     },
     "expertise": {
       "type": "expertise",
+      "title": "Industry Expertise and Solutions",
       "enabled": true,
-      "title": "Our Industry Expertise",
-      "subtitle": "Specialized brass components for critical applications",
-      "description": "Shiv Brass Industries serves diverse sectors with precision-engineered brass components designed for demanding applications.",
       "sectors": [
         {
-          "id": "automotive",
-          "name": "Automotive Industry",
-          "description": "High-performance brass components for automotive applications including engine parts, fuel systems, and transmission components.",
-          "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=600&q=80",
+          "id": "automotive-sector",
+          "name": "Automotive Manufacturing",
+          "image": "https://images.unsplash.com/photo-1519861531473-1f3098c4f35a?auto=format&fit=crop&w=600&q=80",
+          "description": "Specialized precision components for automotive systems, delivering high-performance brass parts with exceptional durability and reliability.",
           "applications": [
-            "Engine Components",
-            "Fuel Systems",
-            "Brake Systems",
-            "Transmission Parts",
-            "Cooling Systems"
+            "Spark Plug Components",
+            "Battery Terminals",
+            "Electrical Connectors",
+            "Sensor Housings",
+            "Mounting Brackets"
           ]
         },
         {
-          "id": "electrical",
-          "name": "Electrical & Electronics",
-          "description": "Precision brass electrical components for reliable connectivity and conductivity in various electronic systems.",
-          "image": "https://images.unsplash.com/photo-1483058712412-4245e9b90334?auto=format&fit=crop&w=600&q=80",
+          "id": "pneumatic-sector",
+          "name": "Pneumatic Systems",
+          "image": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?auto=format&fit=crop&w=600&q=80",
+          "description": "Advanced brass components for pneumatic equipment, ensuring precise performance and seamless integration in complex industrial systems.",
           "applications": [
-            "Electrical Contacts",
-            "Terminal Connectors",
-            "Switch Components",
-            "Circuit Breakers",
-            "Electronic Terminals"
-          ]
-        },
-        {
-          "id": "construction",
-          "name": "Construction & Plumbing",
-          "description": "Durable brass fittings and components for construction, plumbing, and infrastructure applications.",
-          "image": "https://images.unsplash.com/photo-1449157291145-7efd050a4d0e?auto=format&fit=crop&w=600&q=80",
-          "applications": [
-            "Pipe Fittings",
-            "Plumbing Hardware",
-            "Compression Fittings",
-            "Valve Components",
-            "Structural Elements"
-          ]
-        },
-        {
-          "id": "marine",
-          "name": "Marine Applications",
-          "description": "Corrosion-resistant brass components designed for harsh marine environments and maritime applications.",
-          "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=600&q=80",
-          "applications": [
-            "Propeller Shafts",
-            "Marine Valves",
-            "Port Fittings",
-            "Navigation Equipment",
-            "Hull Components"
-          ]
-        },
-        {
-          "id": "aerospace",
-          "name": "Aerospace Industry",
-          "description": "Precision brass components meeting stringent aerospace standards for aircraft and space applications.",
-          "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?auto=format&fit=crop&w=600&q=80",
-          "applications": [
-            "Aircraft Components",
-            "Hydraulic Fittings",
-            "Fuel System Parts",
-            "Navigation Components",
+            "Brass Connectors",
+            "Pneumatic Valves",
+            "Air Fittings",
+            "Pressure Regulators",
             "Control Mechanisms"
           ]
         },
         {
-          "id": "industrial",
-          "name": "Industrial Machinery",
-          "description": "Heavy-duty brass components for industrial machinery, processing equipment, and manufacturing systems.",
-          "image": "https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?auto=format&fit=crop&w=600&q=80",
+          "id": "aerospace-sector",
+          "name": "Aerospace Engineering",
+          "image": "https://images.unsplash.com/photo-1444464666168-49d633b86797?auto=format&fit=crop&w=600&q=80",
+          "description": "High-precision aerospace components manufactured with stringent quality standards, supporting critical aerospace system requirements.",
           "applications": [
-            "Machinery Components",
+            "Aerospace Connectors",
+            "Instrumentation Parts",
+            "Structural Components",
             "Hydraulic Fittings",
-            "Valve Bodies",
-            "Pressure Vessels",
-            "Heat Exchangers"
+            "Sensor Mounts"
           ]
         },
         {
-          "id": "hvac",
-          "name": "HVAC Systems",
-          "description": "Specialized brass components for heating, ventilation, and air conditioning systems.",
-          "image": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?auto=format&fit=crop&w=600&q=80",
+          "id": "industrial-manufacturing",
+          "name": "Industrial Manufacturing",
+          "image": "https://images.unsplash.com/photo-1517420704952-d9f39e95b43e?auto=format&fit=crop&w=600&q=80",
+          "description": "Versatile manufacturing solutions providing custom metal components for diverse industrial applications with exceptional precision.",
           "applications": [
-            "HVAC Fittings",
-            "Thermostat Components",
-            "Valve Parts",
-            "Control Systems",
-            "Refrigeration Components"
-          ]
-        },
-        {
-          "id": "oil-gas",
-          "name": "Oil & Gas",
-          "description": "High-pressure brass components designed for demanding oil and gas exploration and processing applications.",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-          "applications": [
-            "Drilling Equipment",
-            "Pipeline Fittings",
-            "Pressure Gauges",
-            "Control Valves",
-            "Safety Equipment"
+            "Machine Components",
+            "Custom Fasteners",
+            "Precision Brackets",
+            "Specialized Fittings",
+            "Engineering Parts"
           ]
         }
-      ]
+      ],
+      "subtitle": "Comprehensive Manufacturing Solutions Across Multiple Sectors",
+      "description": "RT Turnomatics delivers cutting-edge precision manufacturing solutions, leveraging advanced CNC technologies to serve diverse industrial sectors with unparalleled expertise and quality."
+    },
+    "whyChooseUs": {
+      "type": "why-choose-us",
+      "items": [
+        {
+          "id": "precision-engineering",
+          "icon": "target",
+          "title": "Advanced Precision Manufacturing",
+          "description": "State-of-the-art CNC machinery ensuring micron-level accuracy and consistently high-quality components across all manufacturing processes."
+        },
+        {
+          "id": "custom-solutions",
+          "icon": "settings",
+          "title": "Tailored Manufacturing Solutions",
+          "description": "Flexible production capabilities allowing complete customization and rapid prototyping to meet unique client specifications and requirements."
+        },
+        {
+          "id": "quality-assurance",
+          "icon": "shield",
+          "title": "Rigorous Quality Control",
+          "description": "Comprehensive quality management system with ISO certifications, ensuring every component meets the highest industry standards and performance metrics."
+        }
+      ],
+      "title": "Why Choose RT Turnomatics",
+      "enabled": true,
+      "subtitle": "Delivering Excellence in Precision Component Manufacturing"
+    },
+    "aboutusintro": {
+      "type": "about-us-intro",
+      "image": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?auto=format&fit=crop&w=800&q=80",
+      "title": "About RT Turnomatics",
+      "enabled": true,
+      "subtitle": "Precision Engineering Experts with Global Manufacturing Capabilities",
+      "highlights": [
+        "Established in 2021",
+        "Multiple Metal Manufacturing",
+        "Advanced CNC Technologies",
+        "Global Client Base"
+      ],
+      "description": "RT Turnomatics is a precision manufacturing firm specializing in high-quality brass and metal components. Founded in 2021, we leverage advanced CNC technologies to serve automotive, pneumatic, and aerospace industries with exceptional engineering solutions."
     },
     "testimonials": {
       "type": "testimonials",
-      "enabled": true,
-      "title": "What Our Clients Say",
-      "subtitle": "Trusted partnerships built on quality and reliability",
       "items": [
         {
-          "id": "client-1",
-          "name": "Rajesh Kumar",
-          "company": "AutoTech Engineering Ltd",
-          "designation": "Procurement Manager",
-          "content": "Shiv Brass Industries has been our trusted supplier for automotive brass components for over 8 years. Their quality consistency and timely delivery have been exceptional.",
+          "id": "automotive-client",
+          "name": "Michael Rodriguez",
+          "image": "https://images.unsplash.com/photo-1507003211169-0fc1a8c810a4?auto=format&fit=crop&w=150&q=80",
           "rating": 5,
-          "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=150&q=80"
+          "company": "Global Auto Components Inc.",
+          "content": "RT Turnomatics delivers exceptional precision and reliability. Their brass components have significantly improved our manufacturing efficiency and product quality.",
+          "designation": "Chief Procurement Officer"
         },
         {
-          "id": "client-2",
-          "name": "Sarah Johnson",
-          "company": "AeroSpace Industrial Solutions",
-          "designation": "Quality Director",
-          "content": "The precision and quality standards maintained by Shiv Brass Industries meet our stringent aerospace requirements. Excellent partnership for critical components.",
+          "id": "aerospace-client",
+          "name": "Sarah Thompson",
+          "image": "https://images.unsplash.com/photo-1534751516642-a1af1ef26a56?auto=format&fit=crop&w=150&q=80",
           "rating": 5,
-          "image": "https://images.unsplash.com/photo-1494790108755-2616b612b1a7?auto=format&fit=crop&w=150&q=80"
+          "company": "Aerospace Innovations Ltd.",
+          "content": "Outstanding precision manufacturing with consistently high-quality aerospace components. Their engineering expertise is truly remarkable.",
+          "designation": "Supply Chain Director"
         }
-      ]
-    },
-    "faqs": {
-      "type": "faqs",
+      ],
+      "title": "Client Success Stories",
       "enabled": true,
-      "title": "Frequently Asked Questions",
-      "subtitle": "Common questions about our brass components and services",
-      "items": [
-        {
-          "id": "minimum-order",
-          "question": "What is the minimum order quantity?",
-          "answer": "Our minimum order quantity varies by product complexity and specifications. For standard components, we accept orders starting from 100 pieces. Custom components may have different MOQ requirements."
-        },
-        {
-          "id": "lead-time",
-          "question": "What are the typical lead times?",
-          "answer": "Standard brass components typically have a lead time of 2-4 weeks. Custom forged components may require 4-6 weeks depending on complexity and tooling requirements."
-        }
-      ]
-    },
-    "cta": {
-      "type": "cta",
-      "enabled": true,
-      "title": "Ready to Experience Brass Manufacturing Excellence?",
-      "subtitle": "Partner with Shiv Brass Industries for precision-engineered brass components that meet your exact specifications and quality standards.",
-      "primaryCTA": {
-        "text": "Explore Our Products",
-        "action": "/products"
-      },
-      "secondaryCTA": {
-        "text": "Contact Now",
-        "action": "tel:+91-288-2710234"
-      }
+      "subtitle": "Trusted by Leading Industries for Precision Manufacturing"
     }
   }
 }
